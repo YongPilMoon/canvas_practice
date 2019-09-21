@@ -25,7 +25,6 @@ window.addEventListener('resize', () => {
 });
 const c = canvas.getContext('2d')!;
 const MAX_RADIUS = 40;
-// const MIN_RADIUS = 2;
 
 const colorArray = [
   '#67493C',
